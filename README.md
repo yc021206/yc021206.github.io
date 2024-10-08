@@ -18,3 +18,5 @@
   * * *
 
 학교 링크: https://www.ck.ac.kr 
+
+![제목 없음](https://github.com/user-attachments/assets/6357ade7-5bd3-499b-98ab-52c7be651f3f)
